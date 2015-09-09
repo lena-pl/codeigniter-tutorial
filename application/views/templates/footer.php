@@ -1,5 +1,5 @@
 		<footer>
-			<em>&copy; 2015</em>
+			<p>&copy; 2015</p>
 		</footer>
 	</body>
 </html>
